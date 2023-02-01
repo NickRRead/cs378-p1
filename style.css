@@ -2,6 +2,9 @@ body {
     padding-top: 10px;
     display: block;
   }
+header {
+    text-align: center;
+  }
 img {
     float: left;
     width: 35px;
@@ -18,5 +21,7 @@ img {
   }
 #button {
     color: white;
-    background-color: blue;
+    background-color: lightblue;
+    border: 3px solid blue;
+    border-radius: 25px;
   }
