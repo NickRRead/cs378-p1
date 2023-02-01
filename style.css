@@ -5,7 +5,7 @@ body {
 header {
     text-align: center;
   }
-img {
+.thumbnail {
     float: left;
     width: 35px;
   }
