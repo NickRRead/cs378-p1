@@ -2,6 +2,10 @@ body {
     padding-top: 10px;
     display: block;
   }
+img {
+    float: left;
+    width: 35px;
+  }
 .logo {
     display: block;
     margin-left: auto;
