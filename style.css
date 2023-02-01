@@ -8,3 +8,11 @@ body {
     margin-right: auto;
     width: 40%;
   }
+.subheading {
+    color: orange;
+    font-family: sans-serif;
+  }
+#button {
+    color: white;
+    background-color: blue;
+  }
